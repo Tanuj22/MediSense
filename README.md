@@ -1,5 +1,7 @@
 # MediSense
+Good Health and Well Being, We knew exactly what to do after reading this problem statement. With health issues rising every year the problem resonated with our ideology to have an impact on society and for a great cause. We bridge the gap between doctors, patients , health conscious homosapiens and authority proposing to the world “MediSense” One WebApp for everything under the sun, which includes patient’s record on blockchain , Diet Plan , Doctors nearby, Blood Donation etc.  
 
+## Medical Blockchain
 MediSense is a <strong>simple and easy to use</strong>WebApp.We help <strong>patients</strong> from around the world to share their ,pre medical records efficiently, reliably and securely, to the doctor he wants to consult. We use <strong>Blockchain</strong> to securely transfer patient data to the doctor the patient's wishes to share. The patient also has option to revoke the access to his Pre-Medical recoed. <br>
 
 ## Work Flow
@@ -26,6 +28,20 @@ MediSense is a <strong>simple and easy to use</strong>WebApp.We help <strong>pat
 - Verify patient and doctors
 - can update profile information of patient and doctors
 - But even admin cannot see Medical records of patient he can only grant access to doctors and patient to form a block 
+
+
+## Doctors Nearby
+Adding upon the WebApp, we would be integrating the “Doctors Nearby” feature. The extensive use of Google Maps API for searching Doctors nearby and adding upon to serve the best in emergency situations. Similar to Google Maps, one would be provided with directions, address, ratings and review to the nearest Hospital.  
+
+## MediSense Forum
+A community to bridge gap between patient , doctors and health concious persons to build an extensive and world class health community where issues are raised and solved.
+
+## Additional Features
+* **PERSONALISED DIET PLAN:** Based on Data entered by user
+* **MEDICINE SHOPS:** Contacts to the nearest Medicine Shops Based on Data entered by user
+* **BMI CALCULATION AND ADVICE:** Based on Data entered by user
+* **BLOOD DONATION:** Contacts to the nearest Blood Banks
+* **GENERAL FIRST AID METHODS :** Tackle emergency medical conditions in absence of doctor
 
 
 ### Prerequisites
