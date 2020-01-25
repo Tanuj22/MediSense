@@ -41,7 +41,7 @@ class AdminIndex extends Component{
                 <Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
                     <div style = {{paddingTop : '50px'}}>
                         <center>
-                        <Button loading= { this.state.loading } size = "massive">Login</Button>
+                        <Button class="ui green inverted button massive" loading= { this.state.loading } size = "massive">Login</Button>
                         </center>
                     </div>
                 </Form>

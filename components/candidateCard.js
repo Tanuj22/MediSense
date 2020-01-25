@@ -36,10 +36,10 @@ class CandidateCard extends Component{
                 </Card.Content>
                 <Card.Content extra>
 
-                        <Button onClick = {this.onVote} loading= { this.state.loading }>Send Report</Button>
+                        <Button class="ui green basic button" onClick = {this.onVote} loading= { this.state.loading }>Send Report</Button>
 
                     <Link route = {`/vote/candidateslist/${this.props.address}`}>
-                        <Button>More Details</Button>
+                        <Button class="ui green basic button">More Details</Button>
                     </Link>
                 </Card.Content>
             </Card>

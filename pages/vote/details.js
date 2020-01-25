@@ -51,7 +51,7 @@ class VoterDetails extends Component{
                     </Grid.Column>
                     <Grid.Column>
                             <Link route = '/vote/candidateslist'>
-                                <Button >See Doctors</Button>
+                                <Button class="ui green basic button">See Doctors</Button>
                             </Link>
                     </Grid.Column>
                     </Grid.Row>
