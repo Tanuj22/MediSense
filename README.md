@@ -72,4 +72,4 @@ Dependencies needed
 
 ## Motivation
 
-* For 12hr development hackathon held at IIT-Jodhpur
+* For 36hr software development hackathon held as an event in prometeo (Annual Technical Fest of IIT-Jodhpur).
