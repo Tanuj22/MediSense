@@ -66,7 +66,7 @@ Dependencies needed
 
 ## Authors
 
-* **Kaustubh Dixit** (https://github.com/KD-3)
+* **Jash Patel** (https://github.com/Jashpatel1)
 * **Tanuj agarwal** (https://github.com/Tanuj22)
 * **Anmol Gupta** (https://github.com/anmolcool007)
 
